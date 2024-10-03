@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Hakan</h1>
 <h3 align="center">A passionate backend developer Turkey</h3>
 
-- 🔭 I’m currently working on [B2B Shop](https://github.com/Hakan-Civelek/b2b-shop-springboot-mysql)
+- 🔭 I’m currently working on converting my existing [B2B Shop](https://github.com/Hakan-Civelek/b2b-shop-springboot-mysql) project to a clean architecture approach: [Clean_Arc_B2B Shop](https://github.com/Hakan-Civelek/b2b-shop-springboot-mysql-clean-architecture)
 
 - 🌱 I’m currently learning **Spring Boot**
 
