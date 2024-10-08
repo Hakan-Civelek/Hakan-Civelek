@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on converting my existing [B2B Shop](https://github.com/Hakan-Civelek/b2b-shop-springboot-mysql) project to a clean architecture approach: [Clean Arc B2B Shop](https://github.com/Hakan-Civelek/b2b-shop-springboot-mysql-clean-architecture)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Clean Architecture**
 
-- 💬 Ask me about **Java, MySQL, Spring Boot**
+- 💬 Ask me about **Java, MySQL, Spring Boot, Clean Architecture, Hexagonal Architecture**
 
 - 📫 How to reach me **https://www.linkedin.com/in/hakancivelek/**
 
